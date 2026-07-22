@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+
+    <!-- حفظ بيانات تسجيل الدخول -->
+    <include domain="sharedpref" path="."/>
+    <include domain="database" path="."/>
+
+    <!-- ملفات التطبيق المهمة فقط -->
+    <include domain="file" path="."/>
+
+    <!-- استثناء ملفات لا تحتاج نسخ -->
+    <exclude domain="file" path="no_backup/"/>
+
+</full-backup-content>

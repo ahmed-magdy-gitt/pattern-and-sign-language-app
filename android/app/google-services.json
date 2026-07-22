@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249171234358",
+    "project_id": "pattorn-241d0",
+    "storage_bucket": "pattorn-241d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249171234358:android:f51537c85e98470b29d297",
+        "android_client_info": {
+          "package_name": "com.example.clothesa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEEjru58CpT4655Itw5xj-fslJtjhBy3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
