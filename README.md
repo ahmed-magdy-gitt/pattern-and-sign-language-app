@@ -1,6 +1,3 @@
-<img width="461" height="1000" alt="6dd558c9-cb26-4685-aba5-7db8116749cd" src="https://github.com/user-attachments/assets/8a0a1af3-ebd3-4f1a-aec1-0646ead269c3" />
-<img width="461" height="1000" alt="6a1880c2-9259-4ebd-b17e-8a317dedd843" src="https://github.com/user-attachments/assets/3cee60cc-9455-4f20-b259-053feedcefe0" />
-<img width="461" height="1000" alt="6a1880c2-9259-4ebd-b17e-8a317dedd843" src="https://github.com/user-attachments/assets/d4908c3f-c6f3-418f-960e-48a7ccba7422" />
 # 🪡 Pattern & Sign Language App
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -57,7 +54,8 @@ Built with modern Flutter development standards:
 
 | Home Dashboard | Assessment Test | Practical Lesson |
 | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Home+Screen" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Test+Screen" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Lesson+Screen" width="250"/> |
+| <img width="461" height="1000" alt="6a1880c2-9259-4ebd-b17e-8a317dedd843" src="https://github.com/user-attachments/assets/2fe9f481-73ab-47fa-863a-9c840b67678a" /> | <img width="461" height="1000" alt="a8e2fd23-d31e-4e43-9d89-835da220ecec" src="https://github.com/user-attachments/assets/e8c98164-e9c0-4415-aadd-25693021d1c4" />
+ | <img width="461" height="1000" alt="6dd558c9-cb26-4685-aba5-7db8116749cd" src="https://github.com/user-attachments/assets/b28b6b8f-c07b-4a25-a6c4-460373492fb9" />|
 
 > **Note:** Replace the placeholder links above with your actual screenshot image paths after uploading them to your repo.
 
